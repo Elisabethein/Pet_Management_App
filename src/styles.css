@@ -1,1 +1,32 @@
-/* You can add global styles to this file, and also import other style files */
+.col-1 {
+    width: 5%;
+  }
+  
+  .col-2 {
+    width: 15%;
+  }
+  
+  .col-3 {
+    width: 10%;
+  }
+  
+  .col-4 {
+    width: 15%;
+  }
+  
+  .col-5 {
+    width: 10%;
+  }
+  
+  .col-6 {
+    width: 20%;
+  }
+  
+  .col-7 {
+    width: 10%;
+  }
+  
+  .col-8 {
+    width: 10%;
+  }
+  
