@@ -1,8 +1,8 @@
 # PetManagementApp
 
-This is the front-end part of the project, which works in conjunction with the back-end server. I encourage you to visit the main repository which contains all the files and information about the project:
+This is the front-end part of the project, which works in conjunction with the back-end server. I encourage you to visit the main repository which contains all the files and information about the back-end:
 
-https://github.com/Elisabethein/Pet_Management_App.git
+https://github.com/Elisabethein/Pet_Management
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
@@ -15,6 +15,8 @@ To start the development server, you can run `ng serve` in the command line. Ple
 The following technologies were used in this prject:
 
 Visual Studio Code - to write and edit code
+
+Angular CLI 16.0.0
 
 Bootstrap
 
